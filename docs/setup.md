@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5418638-0943-4b56-9666-a5c34c8812f2)# Because these are the bits I forget
+# Because these are the bits I forget
 
 We'll be using the Microsoft.Graph module primarily in PowerShell core.  Check it is installed:
 ```get-module -ListAvailable -Name "Microsoft.Graph"```
